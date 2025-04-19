@@ -46,13 +46,11 @@
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindamihiran&show_icons=true&locale=en" alt="kavindamihiran" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindamihiran&show_icons=true&locale=en&layout=compact" alt="kavindamihiran" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindamihiran&" alt="kavindamihiran" /></p>
-
-
+<p style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kavindamihiran&show_icons=true&locale=en" alt="kavindamihiran" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindamihiran&show_icons=true&locale=en&layout=compact" alt="kavindamihiran" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindamihiran&" alt="kavindamihiran" />
+</p>
 
 <!-- Snake Action -->
 <picture>
