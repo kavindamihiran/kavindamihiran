@@ -49,10 +49,11 @@ A passionate A.I. Developmet and Frontend Development</p>
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=kavindamihiran&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindamihiran&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavindamihiran&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindamihiran&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="400" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=github_dark&hide_border=false" alt="GitHub Streak" width="400" />
+</div>
 
 <!-- Snake Action -->
 <picture>
