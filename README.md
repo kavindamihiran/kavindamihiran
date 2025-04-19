@@ -48,11 +48,10 @@ A passionate A.I. Developmet and Frontend Development</p>
 
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
-<div style="display: flex; flex-wrap: wrap; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavindamihiran&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindamihiran&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=github_dark&hide_border=false" alt="Streak Stats" />
-  
+<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindamihiran&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=kavindamihiran&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="32%" src="https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=github_dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
 
