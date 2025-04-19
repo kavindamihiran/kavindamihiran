@@ -1,9 +1,10 @@
 <h1>Hi 👋, I'm Kavinda</h1>
-<p>A passionate A.I. Developmet and Frontend Development</p>
+<p>I am an undergraduate from the University of Moratuwa.
+A passionate A.I. Developmet and Frontend Development</p>
 
 <!-- About Me Section -->
 <h2>💫About Me</h2>
-<p>I'm a dedicated developer focused on creating innovative solutions at the intersection of AI and frontend technologies. With expertise in multiple programming languages and frameworks, I strive to build efficient, user-friendly applications that leverage the power of artificial intelligence.</p>
+<p>I'm a dedicated developer focused on creating innovative solutions at the intersection of AI and frontend technologies. With expertise in multiple programming languages and frameworks, I strive to build efficient, user-friendly applications.</p>
 
 
 <h2>🚀 Languages and Tools I Use</h2>
@@ -31,6 +32,8 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c)
 
 
 <!-- Connect Section -->
@@ -46,11 +49,10 @@
 <!-- GitHub Stats -->
 <h2>📊 GitHub Stats</h2>
 
-<p style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kavindamihiran&show_icons=true&locale=en" alt="kavindamihiran" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavindamihiran&show_icons=true&locale=en&layout=compact" alt="kavindamihiran" />
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindamihiran&" alt="kavindamihiran" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=kavindamihiran&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=github_dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavindamihiran&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <!-- Snake Action -->
 <picture>
