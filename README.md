@@ -1,5 +1,11 @@
 <h1>Hi 👋, I'm Kavinda</h1>
 <p>A passionate A.I. Developmet and Frontend Development</p>
+
+<!-- About Me Section -->
+<h2>💫About Me</h2>
+<p>I'm a dedicated developer focused on creating innovative solutions at the intersection of AI and frontend technologies. With expertise in multiple programming languages and frameworks, I strive to build efficient, user-friendly applications that leverage the power of artificial intelligence.</p>
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
@@ -25,6 +31,20 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 
+
+
+<!-- Connect Section -->
+<h2>🔗 Connect With Me</h2>
+<p>
+  <a href="https://www.facebook.com/share/12J2wKpvcvo" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="https://twitter.com/M_ihiran" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://www.instagram.com/m_i_hiran?igsh=czRlN2Q5ZGpkMTZq" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://kavindamihiran.github.io/" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
+</p>
+
+
+<!-- GitHub Stats -->
+<h2>📊 GitHub Stats</h2>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindamihiran&show_icons=true&locale=en" alt="kavindamihiran" /></p>
 
