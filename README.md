@@ -5,7 +5,6 @@
 **AI • Modern Web • Open Source | University of Moratuwa**
 
 [![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://kavindamihiran.github.io/)
-[![Twitter](https://img.shields.io/badge/@M__ihiran-000?style=flat&logo=x&logoColor=white)](https://twitter.com/M_ihiran)
 [![Instagram](https://img.shields.io/badge/@m__i__hiran-000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m_i_hiran)
 [![Facebook](https://img.shields.io/badge/Kavinda-000?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/12J2wKpvcvo)
 
