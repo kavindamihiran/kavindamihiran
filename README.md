@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="kavinda.jpeg" alt="Kavinda Mihiran" width="400"/>
+<img src="kavinda.jpeg" alt="Kavinda Mihiran" width="800"/>
 
 **AI • Modern Web • Open Source | University of Moratuwa**
 
