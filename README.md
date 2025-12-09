@@ -1,11 +1,12 @@
 <div align="center">
 
-# Kavinda Mihiran
+<img src="kavinda.jpeg" alt="Kavinda Mihiran" width="400"/>
 
 **AI • Modern Web • Open Source | University of Moratuwa**
 
 [![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://kavindamihiran.github.io/)
 [![Instagram](https://img.shields.io/badge/@m__i__hiran-000?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/m_i_hiran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=flat&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kavindamihiran/)
 [![Facebook](https://img.shields.io/badge/Kavinda-000?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/share/12J2wKpvcvo)
 
 </div>
