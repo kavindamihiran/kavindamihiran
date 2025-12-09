@@ -2,7 +2,7 @@
 
 # Kavinda Mihiran
 
-**AI Developer • Frontend Engineer • University of Moratuwa**
+**AI • Modern Web • Open Source | University of Moratuwa**
 
 [![Website](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://kavindamihiran.github.io/)
 [![Twitter](https://img.shields.io/badge/@M__ihiran-000?style=flat&logo=x&logoColor=white)](https://twitter.com/M_ihiran)
