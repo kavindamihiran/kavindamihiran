@@ -106,7 +106,10 @@ Building intelligent solutions at the intersection of AI and modern web technolo
 ### Stats
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=kavindamihiran&theme=transparent&hide_border=true" alt="GitHub Streak" />
+
+[![kavindamihiran's Contributions](https://github.pumbas.net/api/contributions/kavindamihiran?bgColour=transparent#gh-dark-mode-only)](https://github.com/pumbas600/github-contributions#gh-dark-mode-only)
+[![kavindamihiran's Contributions](https://github.pumbas.net/api/contributions/kavindamihiran?colour=002AFF&bgColour=transparent#gh-light-mode-only)](https://github.com/pumbas600/github-contributions#gh-light-mode-only)
+
 </div>
 
 ---
