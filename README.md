@@ -32,7 +32,7 @@ Building intelligent solutions at the intersection of AI and modern web technolo
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="42" height="42"/></a>
   <a href="https://www.assemblyscript.org/" target="_blank"><img src="https://img.shields.io/badge/Assembly-000?style=flat&logo=assemblyscript&logoColor=white" alt="assembly" height="28"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="42" height="42"/></a>
 </p>
 
 **Frontend**
@@ -98,7 +98,6 @@ Building intelligent solutions at the intersection of AI and modern web technolo
 
 <p align="center">
   <a href="https://ffmpeg.org/" target="_blank"><img src="https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white" alt="ffmpeg" height="28"/></a>
-  <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="npm" width="42" height="42"/></a>
 </p>
 
 ---
