@@ -74,7 +74,6 @@ Building intelligent solutions at the intersection of AI and modern web technolo
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42"/></a>
   <a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=white" alt="vercel" height="28"/></a>
-  <a href="https://streamlit.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="42" height="42"/></a>
 </p>
 
 **Tools**
