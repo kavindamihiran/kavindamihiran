@@ -30,7 +30,7 @@ Building intelligent solutions at the intersection of AI and modern web technolo
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42"/></a>
   <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42"/></a>
   <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="42" height="42"/></a>
-  <a href="https://en.wikipedia.org/wiki/Assembly_language" target="_blank"><img src="https://img.shields.io/badge/Assembly-000?style=flat&logo=intel&logoColor=white" alt="assembly" height="28"/></a>
+  <a href="https://en.wikipedia.org/wiki/ARM_architecture_family" target="_blank"><img src="https://img.shields.io/badge/ARM_Assembly-000?style=flat&logo=arm&logoColor=white" alt="ARM assembly" height="28"/></a>
   <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="42" height="42"/></a>
 </p>
 
